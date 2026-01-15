@@ -1,5 +1,3 @@
-<br clear="both">
-
 <img align="right" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFiNnpzYXg0djB4cGJmbTdmdHppM2x3MGRocDl2N28ycnpkeTRmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
 
 ###
@@ -47,6 +45,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Fabinhoow/Fabinhoow/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Fabinhoow.Fabinhoow&"  />
 </div>
 
 ###
