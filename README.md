@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">Olá, eu sou o Fábio Luiz!</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zen+Dots&pause=1000&color=971E90&width=435&lines=Ol%C3%A1%2C+Eu+sou+o+F%C3%A1bio+Luiz" alt="Typing SVG" /></a>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Fabinhoow/Fabinhoow/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
