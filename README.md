@@ -1,96 +1,146 @@
-<table>
-<tr>
-<td>
-
 # 👋 Olá, eu sou o Fábio Luiz
 
-### 💻 Desenvolvedor em formação :
-Sempre aprendendo algo novo.
+💻 Desenvolvedor em formação  
+🚀 Sempre aprendendo algo novo e criando projetos.
 
 ---
 
-## 👨‍💻 Sobre mim
+# 🧠 Sobre mim
 
-Sou um estudante e desenvolvedor em formação apaixonado por **tecnologia e programação**.
+**Atuação:** Estudante e Desenvolvedor em formação.  
+**Perfil:** Focado em desenvolvimento web, criação de interfaces modernas e aprendizado constante.  
 
-Estou sempre buscando aprender mais e evoluir minhas habilidades através de estudos e projetos práticos.
+**Especialidades:**
+- Desenvolvimento de interfaces web
+- Estruturação de projetos front-end
+- Boas práticas de código
+- Aprendizado contínuo em tecnologias web
 
-Tenho conhecimento em:
+**Frontend:** HTML, CSS, JavaScript, React e criação de interfaces responsivas.
 
-- HTML  
-- CSS  
-- JavaScript  
-- Python  
-- React (básico)  
-- Conceitos de desenvolvimento web  
-- Boas práticas de código  
+**Backend (estudando):** Python e lógica de programação.
 
-💡 Gosto de **resolver problemas, aprender coisas novas e transformar ideias em projetos reais**.
+**Objetivo:**  
+Conseguir minha **primeira experiência profissional na área de tecnologia**, evoluindo como desenvolvedor e contribuindo com projetos reais.
 
-🎯 Meu objetivo é **crescer na área de tecnologia, conquistar minha primeira experiência profissional e contribuir com soluções que façam diferença.**
-
-</td>
-
-<td>
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFiNnpzYXg0djB4cGJmbTdmdHppM2x3MGRocDl2N28ycnpkeTRmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="220"/>
-
-</td>
-</tr>
-</table>
+📍 **Local:** Camaçari, Bahia — aberto a oportunidades remotas.
 
 ---
 
-# 📬 Contato
+```javascript
+const fabioLuiz = {
+  cargo: "Desenvolvedor em formação",
+  local: "Camaçari, Bahia, Brasil",
+  foco: [
+    "HTML, CSS e JavaScript",
+    "React e desenvolvimento de interfaces",
+    "Python e lógica de programação",
+    "Boas práticas de desenvolvimento"
+  ],
+  objetivo:
+    "Crescer na área de tecnologia, ganhar experiência profissional e desenvolver soluções úteis e eficientes."
+};
+```
+
+---
+
+# 📊 Visão geral do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabinhowdev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabinhowdev&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=fabinhowdev&theme=tokyonight)
+
+---
+
+# 🧩 Stack tecnológica
+
+## 💻 Linguagens
 
 <p>
-<a href="https://www.linkedin.com/in/f%C3%A1bioluizalvesdonascimento/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:fabio.luizalvesdonascimentoo@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🚀 Tecnologias
-
-<p>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 🎨 Frontend
 
-![](https://github-readme-stats.vercel.app/api?username=fabinhowdev&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=fabinhowdev&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fabinhowdev&theme=tokyonight&hide_border=true&layout=compact)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+</p>
 
 ---
 
-# 👀 Visitantes
+## 🧠 Conceitos
 
-![](https://visitcount.itsvg.in/api?id=fabinhowdev&icon=5&color=6)
-
-<div align="center">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=fabinhowdev.fabinhowdev"/>
-
-</div>
+- Desenvolvimento Web
+- Responsividade
+- Estruturação de projetos
+- Boas práticas de código
+- Lógica de programação
 
 ---
 
-⭐ Se gostou dos meus projetos, deixe uma estrela nos repositórios!
+# 📊 Distribuição de conhecimento
+
+| Área | Nível | Destaque |
+|-----|-----|-----|
+| Frontend | 75% | Interfaces web, responsividade |
+| JavaScript | 65% | Manipulação do DOM |
+| Python | 50% | Lógica e automação |
+| React | 40% | Componentes e estrutura |
+| UI Design | 60% | Interfaces simples e funcionais |
+
+---
+
+# ✨ Meus diferenciais
+
+| Característica | Aplicação |
+|---|---|
+| Curiosidade por tecnologia | Sempre estudando novas ferramentas |
+| Aprendizado rápido | Evolução constante com prática |
+| Criatividade | Transformar ideias em projetos |
+| Persistência | Continuar aprendendo mesmo com dificuldades |
+
+---
+
+# 📈 Atividade
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fabinhowdev&theme=tokyo-night)
+
+---
+
+# 🌍 Aberto a oportunidades
+
+**Cargos:**
+
+- Desenvolvedor Front-end Júnior  
+- Desenvolvedor Web  
+- Estágio em programação  
+
+**Modelo de trabalho:**
+
+- Remoto  
+- Híbrido  
+
+📍 **Local:** Camaçari — Bahia
+
+---
+
+# 💬 Vamos nos conectar
+
+📧 Email: **fabio.luizalvesdonascimentoo@gmail.com**
+
+💼 LinkedIn  
+https://www.linkedin.com/in/f%C3%A1bioluizalvesdonascimento/
+
+🌐 Portfólio  
+https://portfoliofabioluiz.netlify.app
+
+---
+
+⭐ Obrigado por visitar meu perfil!
