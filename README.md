@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=fabinhowdev&label=Profile%20views&color=00FF9C&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=fabinhowdev&label=Profile%20views&color=8A2BE2&style=for-the-badge"/>
 
 # 👨‍💻 Fábio Luiz
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=00FF9C&center=true&vCenter=true&width=650&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia;Construindo+projetos+todos+os+dias;HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Python" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia;Construindo+projetos+todos+os+dias;HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Python" />
 
 </div>
 
@@ -43,7 +43,7 @@ Conseguir minha **primeira oportunidade como desenvolvedor** e evoluir continuam
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -53,7 +53,7 @@ Conseguir minha **primeira oportunidade como desenvolvedor** e evoluir continuam
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,tailwind,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,tailwind,mysql&theme=dark" />
 
 </div>
 
@@ -63,9 +63,9 @@ Conseguir minha **primeira oportunidade como desenvolvedor** e evoluir continuam
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fabinhowdev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fabinhowdev&show_icons=true&theme=tokyonight&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabinhowdev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabinhowdev&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2"/>
 
 </div>
 
@@ -75,7 +75,7 @@ Conseguir minha **primeira oportunidade como desenvolvedor** e evoluir continuam
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=fabinhowdev&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=fabinhowdev&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2"/>
 
 </div>
 
@@ -85,7 +85,7 @@ Conseguir minha **primeira oportunidade como desenvolvedor** e evoluir continuam
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fabinhowdev&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fabinhowdev&theme=tokyo-night&color=8A2BE2&line=8A2BE2&point=ffffff"/>
 
 </div>
 
@@ -140,15 +140,15 @@ Conseguir minha **primeira oportunidade como desenvolvedor** e evoluir continuam
 <div align="center">
 
 <a href="https://www.linkedin.com/in/f%C3%A1bioluizalvesdonascimento/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:fabio.luizalvesdonascimentoo@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://portfoliofabioluiz.netlify.app">
-<img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
