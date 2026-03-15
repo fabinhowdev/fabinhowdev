@@ -1,146 +1,159 @@
+<div align="center">
+
 # 👋 Olá, eu sou o Fábio Luiz
 
-💻 Desenvolvedor em formação  
-🚀 Sempre aprendendo algo novo e criando projetos.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=00FF9C&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo;Construindo+projetos+e+evoluindo" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFiNnpzYXg0djB4cGJmbTdmdHppM2x3MGRocDl2N28ycnpkeTRmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="320"/>
+
+</div>
+
+---
+
+# 🌌 Matrix Dev Mode
+
+<p align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+
+</p>
 
 ---
 
 # 🧠 Sobre mim
 
-**Atuação:** Estudante e Desenvolvedor em formação.  
-**Perfil:** Focado em desenvolvimento web, criação de interfaces modernas e aprendizado constante.  
+💻 Desenvolvedor em formação apaixonado por tecnologia.
 
-**Especialidades:**
-- Desenvolvimento de interfaces web
-- Estruturação de projetos front-end
-- Boas práticas de código
-- Aprendizado contínuo em tecnologias web
+📍 Camaçari - Bahia
 
-**Frontend:** HTML, CSS, JavaScript, React e criação de interfaces responsivas.
+🚀 Atualmente estudando:
 
-**Backend (estudando):** Python e lógica de programação.
+* HTML
+* CSS
+* JavaScript
+* React
+* Python
+* Estrutura de projetos web
 
-**Objetivo:**  
-Conseguir minha **primeira experiência profissional na área de tecnologia**, evoluindo como desenvolvedor e contribuindo com projetos reais.
+🎯 Objetivo:
 
-📍 **Local:** Camaçari, Bahia — aberto a oportunidades remotas.
-
----
-
-```javascript
-const fabioLuiz = {
-  cargo: "Desenvolvedor em formação",
-  local: "Camaçari, Bahia, Brasil",
-  foco: [
-    "HTML, CSS e JavaScript",
-    "React e desenvolvimento de interfaces",
-    "Python e lógica de programação",
-    "Boas práticas de desenvolvimento"
-  ],
-  objetivo:
-    "Crescer na área de tecnologia, ganhar experiência profissional e desenvolver soluções úteis e eficientes."
-};
-```
+Conseguir minha **primeira experiência profissional como desenvolvedor** e continuar evoluindo na área de tecnologia.
 
 ---
 
-# 📊 Visão geral do GitHub
+# 🚀 Tecnologias
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabinhowdev&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabinhowdev&layout=compact&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=fabinhowdev&theme=tokyonight)
-
----
-
-# 🧩 Stack tecnológica
-
-## 💻 Linguagens
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-</p>
+</div>
 
 ---
 
-## 🎨 Frontend
+# ⚡ Tecnologias em aprendizado
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,tailwind,mysql" />
 
-## 🧠 Conceitos
-
-- Desenvolvimento Web
-- Responsividade
-- Estruturação de projetos
-- Boas práticas de código
-- Lógica de programação
+</div>
 
 ---
 
-# 📊 Distribuição de conhecimento
+# 📊 Estatísticas GitHub
 
-| Área | Nível | Destaque |
-|-----|-----|-----|
-| Frontend | 75% | Interfaces web, responsividade |
-| JavaScript | 65% | Manipulação do DOM |
-| Python | 50% | Lógica e automação |
-| React | 40% | Componentes e estrutura |
-| UI Design | 60% | Interfaces simples e funcionais |
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fabinhowdev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-# ✨ Meus diferenciais
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabinhowdev&layout=compact&theme=tokyonight&hide_border=true"/>
 
-| Característica | Aplicação |
-|---|---|
-| Curiosidade por tecnologia | Sempre estudando novas ferramentas |
-| Aprendizado rápido | Evolução constante com prática |
-| Criatividade | Transformar ideias em projetos |
-| Persistência | Continuar aprendendo mesmo com dificuldades |
+</div>
 
 ---
 
-# 📈 Atividade
+# 🔥 Sequência de commits
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fabinhowdev&theme=tokyo-night)
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=fabinhowdev&theme=tokyonight&hide_border=true"/>
 
-# 🌍 Aberto a oportunidades
-
-**Cargos:**
-
-- Desenvolvedor Front-end Júnior  
-- Desenvolvedor Web  
-- Estágio em programação  
-
-**Modelo de trabalho:**
-
-- Remoto  
-- Híbrido  
-
-📍 **Local:** Camaçari — Bahia
+</div>
 
 ---
 
-# 💬 Vamos nos conectar
+# 📈 Gráfico de atividade
 
-📧 Email: **fabio.luizalvesdonascimentoo@gmail.com**
+<div align="center">
 
-💼 LinkedIn  
-https://www.linkedin.com/in/f%C3%A1bioluizalvesdonascimento/
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fabinhowdev&theme=tokyo-night"/>
 
-🌐 Portfólio  
+</div>
+
+---
+
+# 🧊 3D Contribution Graph
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabinhowdev&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🧑‍💻 Projetos em destaque
+
+🔗 Portfolio
 https://portfoliofabioluiz.netlify.app
 
+📊 Dashboard Financeiro
+https://github.com/fabinhowdev/App-Dashboard-Finance
+
+💻 Meus Repositórios
+https://github.com/fabinhowdev?tab=repositories
+
 ---
 
+# 🐍 Contribuições animadas
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌍 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/f%C3%A1bioluizalvesdonascimento/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:fabio.luizalvesdonascimentoo@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://portfoliofabioluiz.netlify.app">
+<img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
 ⭐ Obrigado por visitar meu perfil!
+
+</div>
