@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou o Fábio Luiz
 
-### 💻 Desenvolvedor em formação  
+### 💻 Desenvolvedor em formação :
 Sempre aprendendo algo novo.
 
 ---
