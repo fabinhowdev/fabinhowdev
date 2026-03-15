@@ -144,7 +144,7 @@ https://github.com/fabinhowdev?tab=repositories
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://portfoliofabioluiz.netlify.app">
+<a target="_blank" href="https://portfoliofabioluiz.netlify.app">
 <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
