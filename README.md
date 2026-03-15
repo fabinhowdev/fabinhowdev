@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Fábio Luiz
+<img src="https://komarev.com/ghpvc/?username=fabinhowdev&label=Profile%20views&color=00FF9C&style=for-the-badge"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=00FF9C&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo;Construindo+projetos+e+evoluindo" />
+# 👨‍💻 Fábio Luiz
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=00FF9C&center=true&vCenter=true&width=650&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia;Construindo+projetos+todos+os+dias;HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Python" />
 
 </div>
 
@@ -10,19 +12,9 @@
 
 <div align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFiNnpzYXg0djB4cGJmbTdmdHppM2x3MGRocDl2N28ycnpkeTRmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="320"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFiNnpzYXg0djB4cGJmbTdmdHppM2x3MGRocDl2N28ycnpkeTRmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="300"/>
 
 </div>
-
----
-
-# 🌌 Matrix Dev Mode
-
-<p align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-
-</p>
 
 ---
 
@@ -30,7 +22,7 @@
 
 💻 Desenvolvedor em formação apaixonado por tecnologia.
 
-📍 Camaçari - Bahia
+📍 **Camaçari - Bahia**
 
 🚀 Atualmente estudando:
 
@@ -41,9 +33,9 @@
 * Python
 * Estrutura de projetos web
 
-🎯 Objetivo:
+🎯 **Objetivo**
 
-Conseguir minha **primeira experiência profissional como desenvolvedor** e continuar evoluindo na área de tecnologia.
+Conseguir minha **primeira oportunidade como desenvolvedor** e evoluir continuamente na área de tecnologia.
 
 ---
 
@@ -89,7 +81,7 @@ Conseguir minha **primeira experiência profissional como desenvolvedor** e cont
 
 ---
 
-# 📈 Gráfico de atividade
+# 📈 Atividade no GitHub
 
 <div align="center">
 
@@ -99,11 +91,11 @@ Conseguir minha **primeira experiência profissional como desenvolvedor** e cont
 
 ---
 
-# 🧊 3D Contribution Graph
+# 🧊 GitHub Insights
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabinhowdev&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabinhowdev&theme=tokyonight"/>
 
 </div>
 
@@ -111,14 +103,25 @@ Conseguir minha **primeira experiência profissional como desenvolvedor** e cont
 
 # 🧑‍💻 Projetos em destaque
 
-🔗 Portfolio
-https://portfoliofabioluiz.netlify.app
+<div align="center">
 
-📊 Dashboard Financeiro
-https://github.com/fabinhowdev/App-Dashboard-Finance
+<a href="https://github.com/fabinhowdev/App-Dashboard-Finance">
 
-💻 Meus Repositórios
-https://github.com/fabinhowdev?tab=repositories
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=fabinhowdev&repo=App-Dashboard-Finance&theme=tokyonight"/>
+
+</a>
+
+</div>
+
+---
+
+# 🌍 Meu Portfólio
+
+<div align="center">
+
+🌐 https://portfoliofabioluiz.netlify.app
+
+</div>
 
 ---
 
@@ -132,7 +135,7 @@ https://github.com/fabinhowdev?tab=repositories
 
 ---
 
-# 🌍 Conecte-se comigo
+# 🌎 Conecte-se comigo
 
 <div align="center">
 
@@ -144,7 +147,7 @@ https://github.com/fabinhowdev?tab=repositories
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a target="_blank" href="https://portfoliofabioluiz.netlify.app">
+<a href="https://portfoliofabioluiz.netlify.app">
 <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
